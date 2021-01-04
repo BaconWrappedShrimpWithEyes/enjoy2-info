@@ -5,7 +5,7 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.2.1 (1 bug fixed; 1 new feature)</title>
+      <title>Version 1.3.0 (1 new feature)</title>
       <sparkle:releaseNotesLink> https://s3.amazonaws.com/nongraphical/enjoy2/changelog_1.2.1.html </sparkle:releaseNotesLink>
       <pubDate>Mon, 1 Dec 2014 00:00:00 +0000</pubDate>
       <enclosure url="https://s3.amazonaws.com/nongraphical/releases/Enjoy2-1.2.1.zip" sparkle:version="1.2.1" sparkle:dsaSignature="MCwCFE7FNa4bfSHnlDKCCwaO5lFhkgHYAhQRFhhN1K8lYjN+tG1ZxnPffH5M3g==" length="1264250" type="application/octet-stream"/>
