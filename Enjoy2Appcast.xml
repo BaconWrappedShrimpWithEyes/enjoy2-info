@@ -3,6 +3,12 @@
     <channel>
         <title>Enjoy2</title>
         <item>
+            <title>1.3.1</title>
+            <pubDate>Tue, 19 Jan 2021 23:43:31 -0500</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://baconshrimpeyes.com/enjoy2-info/Enjoy2-1.3.1.zip" sparkle:version="1.3.1" sparkle:shortVersionString="1.3.1" length="2336718" type="application/octet-stream" sparkle:edSignature="O7TcbkGfxUMXVL7ezsCePWfa5Jmct+D1zqJUV4jlrQjcHPMfQnvqXcsxCWNI0MwALBiyatVI34bmQWYjT4ZvDg=="/>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Sun, 03 Jan 2021 23:35:35 -0500</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
